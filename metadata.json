@@ -1,0 +1,5 @@
+{
+  "name": "Prompt Dice Roller",
+  "description": "A tool to generate creative prompts by rolling dice for different categories. Users can manage the possible outcomes for each category, effectively creating custom dice for inspiration.",
+  "requestFramePermissions": []
+}
